@@ -1,7 +1,6 @@
 ## 🎥 Screencast
 
-You can watch my Module 2 screencast here:  
-[▶️ Pythonic Text Analyzer Demo](https://somup.com/cTQ20m8RlF)
+[Click here to watch my demo on Somup](https://somup.com/cTQ20m8RlF)
 # Pythonic Text Analyzer
 
 This project refactors a poorly written script into a clean, modular, and Pythonic program.  
